@@ -15,5 +15,13 @@
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "multer": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achmadichman/gemini-flash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/achmadichman/gemini-flash/issues"
+  },
+  "homepage": "https://github.com/achmadichman/gemini-flash#readme"
 }
